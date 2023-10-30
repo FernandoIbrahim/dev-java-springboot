@@ -70,6 +70,6 @@ public class Student {
     //define to String method
 
     public String toString(){
-        return "Id = " + this.id + "\nFirst Name = " + this.firstName + "\nLast Name = " + this.lastName + "\n email = " + this.email;
+        return "Id = " + this.id + "\nFirst Name = " + this.firstName + "\nLast Name = " + this.lastName + "\nemail = " + this.email;
     }
 }
